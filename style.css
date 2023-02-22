@@ -3,6 +3,7 @@
     width: 500px;
     display: flex;
     flex-direction: column;
+    border: 1px solid rgb(0, 0, 0);
 }
 
 .row {
@@ -14,7 +15,3 @@
     flex-grow: 1;
     border: 0.5px solid black;
 }
-
-/* .square:hover {
-    background-color: black;
-} */
